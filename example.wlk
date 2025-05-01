@@ -22,7 +22,7 @@ object tito {
   }
 }
 
-object whiskey{
+object whisky{
   method rendimiento(unaCantidad){
     return(
       0.9**unaCantidad
