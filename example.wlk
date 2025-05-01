@@ -1,6 +1,6 @@
 object tito {
   var bebida = null
-  var cantidad = null
+  var cantidad = 0
   method inercia() {
     return(
       490
